@@ -1,0 +1,7 @@
+*{
+  font-family:gilroy
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
